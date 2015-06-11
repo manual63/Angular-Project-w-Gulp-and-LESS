@@ -20,3 +20,5 @@ This will build the project and update the /dist directory with new changes.
 Run or move the /dist directory within your favorite web server to see the site. This will not run in your local file system since it uses AJAX calls.
 
 Tweak to your liking and most of all....Have fun!!
+
+A few notes on this project. This is the base (starting point) of a tutorial I am writing about using GULP and LESS with AngularJS to reduce file references. So if you clone master, you will get the base of this project. Click the branch dropdown to see other branches as I go through the tutorial and add stuff.
