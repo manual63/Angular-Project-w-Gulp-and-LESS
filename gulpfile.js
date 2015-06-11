@@ -18,5 +18,5 @@ var directories = [
 
 gulp.task( 'move', function() {
 	gulp.src( directories, { base: './src' })
-		.pipe( gulp.dest('dist/'));
+		.pipe( gulp.dest( 'dist/' ));
 });
