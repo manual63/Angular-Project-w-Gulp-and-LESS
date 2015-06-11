@@ -1,4 +1,4 @@
-# Angular-Project-w-Gulp-and-LESS
+# Angular Project w/ GULP and LESS
 Took basic Angular Project and added GULP task runner and LESS preprocessor
 
 To run this project after you clone it to your local environment you will need the following installed.
